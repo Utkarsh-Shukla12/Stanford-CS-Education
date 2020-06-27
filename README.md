@@ -18,6 +18,11 @@ This Repo was created for my Medium Blog post [Stanford CS education for Free!!
 * [CS154 Automata theory](https://www.edx.org/course/compilers)
 * [EE364A Convex Optimization](https://www.edx.org/course/convex-optimization)
 
+## Electives
+* [CS246 Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
+* [CS253	Web Security](https://online.stanford.edu/courses/xcs100-introduction-web-security)
+* [CS255	Cryptography](https://online.stanford.edu/courses/soe-y0001-cryptography-i) or [Take on Coursera]()
+
 ## AI & Machine Learning Courses
 
 * [CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/autumn2019/) and  [Lectures on Youtube](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
