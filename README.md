@@ -22,7 +22,7 @@ This Repo was created for my Medium Blog post [Stanford CS education for Free!!
 
 * [CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/autumn2019/) and  [Lectures on Youtube](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 * [CS229: Machine Learning](http://cs229.stanford.edu/) and  [Lectures on Youtube](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 
-* [CS229 Machine Learning, 2009][https://see.stanford.edu/Course/CS229]
+* [CS229 Machine Learning, 2009](https://see.stanford.edu/Course/CS229)
 * [CS230 Deep Learning](https://cs230.stanford.edu/) and [Lectures on Youtube](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
 ## Computer Vision and Natural Language Processing 
