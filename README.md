@@ -9,7 +9,7 @@ This Repo was created for my Medium Blog post [Stanford CS education for Free!!
 
 ## Applications
 * [CS140 Operating System](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)
-* [CS161 Algorithms](https://www.edx.org/course/algorithms-design-and-analysis) or [Take Coursera Specialization]()
+* [CS161 Algorithms](https://www.edx.org/course/algorithms-design-and-analysis) or [Take Coursera Specialization](https://www.coursera.org/specializations/algorithms)
 * [CS110 Principles of Systems ](http://web.stanford.edu/class/cs110/) and  [Lectures on Youtube](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLkGAai-LjzyO553wuPY_gYDx_7YbjI1Pk)
 * [CS145	Databases](https://www.edx.org/course/databases-5-sql)
 
@@ -19,9 +19,11 @@ This Repo was created for my Medium Blog post [Stanford CS education for Free!!
 * [EE364A Convex Optimization](https://www.edx.org/course/convex-optimization)
 
 ## Electives
+* [Game Theory](https://www.coursera.org/learn/game-theory-1)
+* [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
 * [CS246 Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 * [CS253	Web Security](https://online.stanford.edu/courses/xcs100-introduction-web-security)
-* [CS255	Cryptography](https://online.stanford.edu/courses/soe-y0001-cryptography-i) or [Take on Coursera]()
+* [CS255	Cryptography](https://online.stanford.edu/courses/soe-y0001-cryptography-i) or [Take on Coursera](https://www.coursera.org/learn/crypto)
 
 ## AI & Machine Learning Courses
 
@@ -44,7 +46,7 @@ I wanted to end with a famous quote:
 
 Happy Learning :) 
 
-&Utkarsh Shukla
+_**Utkarsh Shukla**_
 
 ## License
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
