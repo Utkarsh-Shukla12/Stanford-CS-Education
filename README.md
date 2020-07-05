@@ -1,5 +1,5 @@
 # Stanford-CS-Education
-This Repo was created for my Medium Blog post [Stanford CS education for Free!!](https://google.co.in). This contains a Stanford CS courses offered by Stanford for free.
+This Repo was created for my Medium Blog post [Stanford CS education for Free!!](https://medium.com/@Utkarsh_Shukla/get-stanford-cs-education-for-free-a9d75472fae2). This contains a Stanford CS courses offered by Stanford for free.
 
 ## Intro to Computer Science (Foundation)
 * [CS106A Programming Methodology](https://see.stanford.edu/Course/CS106A)
