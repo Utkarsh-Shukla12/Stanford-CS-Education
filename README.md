@@ -9,6 +9,7 @@ This Repo was created for my Medium Blog post [Stanford CS education for Free!!
 
 ## Applications
 * [CS140 Operating System](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)
+* [CS193p Developing Apps for iOS](https://cs193p.sites.stanford.edu/) and [Lectures on Youtube](https://www.youtube.com/playlist?list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
 * [CS161 Algorithms](https://www.edx.org/course/algorithms-design-and-analysis) or [Take Coursera Specialization](https://www.coursera.org/specializations/algorithms)
 * [CS110 Principles of Systems ](http://web.stanford.edu/class/cs110/) and  [Lectures on Youtube](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLkGAai-LjzyO553wuPY_gYDx_7YbjI1Pk)
 * [CS145	Databases](https://www.edx.org/course/databases-5-sql)
