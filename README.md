@@ -38,6 +38,8 @@ This Repo was created for my Medium Blog post [Stanford CS education for Free!!
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html#schedule) and  [Lectures on youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) and  [Lectures on youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 
+## CS224w Machine Learning with Graphs
+* [CS224w Machine Learning with Graphs](http://snap.stanford.edu/class/cs224w-videos-2019/)
 ## Reinforcement Learning 
 * [CS234 Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) and [Lectures on Youtube](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
