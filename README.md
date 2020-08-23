@@ -25,6 +25,7 @@ This Repo was created for my Medium Blog post [Stanford CS education for Free!!
 * [CS246 Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 * [CS253	Web Security](https://online.stanford.edu/courses/xcs100-introduction-web-security)
 * [CS255	Cryptography](https://online.stanford.edu/courses/soe-y0001-cryptography-i) or [Take on Coursera](https://www.coursera.org/learn/crypto)
+* [STATS 385 Analyses of Deep Learning ](https://stats385.github.io/lecture_videos)
 
 ## AI & Machine Learning Courses
 
