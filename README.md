@@ -47,7 +47,7 @@ This Repo was created for my Medium Blog post [Stanford CS education for Free!!
 * [CS234 Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) and [Lectures on Youtube](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 ## Author's Note
-Hi there!! I'm Utkarsh, I created this repo to help anyone who is interested in learning Computer Science form Stanford.
+Hi there!! I'm Utkarsh, I created this repo to help anyone who is interested in learning Computer Science from Stanford.
 I wanted to end with a famous quote:
 ```
 "Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
@@ -59,3 +59,4 @@ _**Utkarsh Shukla**_
 
 ## License
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+o
